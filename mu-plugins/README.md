@@ -1,0 +1,1 @@
+MOVE THIS FILE TO wp-content DIRECTORY!
